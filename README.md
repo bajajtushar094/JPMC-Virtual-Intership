@@ -8,6 +8,6 @@ This is github repo of project done by me during virtual internship with [**JPMC
 ## To know more about the tasks. Please click on the corresponding folder.
 
 ## My Certificate
-<img src="./certificate.jpg" width="100%" >
+<img src="./certificate.png" width="100%" >
 
 
